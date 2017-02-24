@@ -15,7 +15,7 @@ Projetos de exemplo implementados:
 [Utilizando a base do templete (prox item) foi desenvolvido um RPG com validação de usuario e toda uma logica](https://github.com/joaowillamy/Node_JS/tree/master/Node_mmorpg_got)
 
 ###Templete Node.js
-[Um templete com MVC, DAO, Rotas, e conceitos de um WebService RestFull. Tudo pronto para desenvolver!](https://github.com/joaowillamy/Node_JS/tree/master/app_nodejs_padrao)
+[Um templete com com as configurações do node e Rotas Tudo pronto para desenvolver!](https://github.com/joaowillamy/Node_JS/tree/master/app_nodejs_padrao)
 
 
 By: [João Willamy](https://www.linkedin.com/in/joao-willamy-8aa9058a) 	
