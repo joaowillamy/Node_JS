@@ -9,7 +9,7 @@ Projetos de exemplo implementados:
 [Uma versão avançada do bloque, desta vez utilizando imagens e MongoDB](https://github.com/joaowillamy/Node_JS/tree/master/Node_instagram_clone)
 
 ###Chat Real Time
-[O que o node tem de melhor??? muitas coisas e uma delas, é como se trabalha com Real Time](https://github.com/joaowillamy/Node_JS/tree/master/Node_multiroom_chat_realTime)
+[O que o node tem de melhor??? Talvez trabalha com Real Time](https://github.com/joaowillamy/Node_JS/tree/master/Node_multiroom_chat_realTime)
 
 ###Jogo mmoRPG
 [Utilizando a base do templete (prox item) foi desenvolvido um RPG com validação de usuario e toda uma logica](https://github.com/joaowillamy/Node_JS/tree/master/Node_mmorpg_got)
